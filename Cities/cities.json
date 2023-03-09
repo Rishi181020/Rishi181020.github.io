@@ -1,7 +1,7 @@
 {
     "cities": [
         {
-            "state_code": "AN",
+            "name": "Andaman and Nicobar Islands",
             "data": [
                 "Bamboo Flat",
                 "Nicobar",
@@ -10,7 +10,7 @@
             ]
         },
         {
-            "state_code": "AP",
+            "name": "Andhra Pradesh",
             "data": [
                 "Addanki",
                 "Ādoni",
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "state_code": "AR",
+            "name": "Arunachal Pradesh",
             "data": [
                 "Along",
                 "Anjaw",
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "state_code": "AS",
+            "name": "Assam",
             "data": [
                 "Abhayāpuri",
                 "Amguri",
@@ -315,7 +315,7 @@
             ]
         },
         {
-            "state_code": "BR",
+            "name": "Bihar",
             "data": [
                 "Amarpur",
                 "Araria",
@@ -458,13 +458,13 @@
             ]
         },
         {
-            "state_code": "CH",
+            "name": "Chandigarh",
             "data": [
                 "Chandigarh"
             ]
         },
         {
-            "state_code": "CT",
+            "name": "Chhattisgarh",
             "data": [
                 "Akaltara",
                 "Ambāgarh Chauki",
@@ -548,7 +548,7 @@
             ]
         },
         {
-            "state_code": "DN",
+            "name": "Dadra and Nagar Haveli",
             "data": [
                 "Daman",
                 "Daman District",
@@ -556,7 +556,7 @@
             ]
         },
         {
-            "state_code": "DD",
+            "name": "Daman and Diu",
             "data": [
                 "Daman",
                 "Daman District",
@@ -564,7 +564,7 @@
             ]
         },
         {
-            "state_code": "DL",
+            "name": "Delhi",
             "data": [
                 "Alīpur",
                 "Bawāna",
@@ -588,7 +588,7 @@
             ]
         },
         {
-            "state_code": "GA",
+            "name": "Goa",
             "data": [
                 "Aldona",
                 "Arambol",
@@ -643,7 +643,7 @@
             ]
         },
         {
-            "state_code": "GJ",
+            "name": "Gujarat",
             "data": [
                 "Abrama",
                 "Adalaj",
@@ -874,7 +874,7 @@
             ]
         },
         {
-            "state_code": "HR",
+            "name": "Haryana",
             "data": [
                 "Ambāla",
                 "Āsandh",
@@ -966,7 +966,7 @@
             ]
         },
         {
-            "state_code": "HP",
+            "name": "Himachal Pradesh",
             "data": [
                 "Arki",
                 "Baddi",
@@ -1029,7 +1029,7 @@
             ]
         },
         {
-            "state_code": "JK",
+            "name": "Jammu and Kashmir",
             "data": [
                 "Akhnūr",
                 "Anantnag",
@@ -1098,7 +1098,7 @@
             ]
         },
         {
-            "state_code": "JH",
+            "name": "Jharkhand",
             "data": [
                 "Bagra",
                 "Barkā Kānā",
@@ -1190,7 +1190,7 @@
             ]
         },
         {
-            "state_code": "KA",
+            "name": "Karnataka",
             "data": [
                 "Afzalpur",
                 "Ajjampur",
@@ -1446,7 +1446,7 @@
             ]
         },
         {
-            "state_code": "KL",
+            "name": "Kerala",
             "data": [
                 "Adūr",
                 "Alappuzha",
@@ -1558,21 +1558,21 @@
             ]
         },
         {
-            "state_code": "LA",
+            "name": "Ladakh",
             "data": [
                 "Kargil",
                 "Leh"
             ]
         },
         {
-            "state_code": "LD",
+            "name": "Lakshadweep",
             "data": [
                 "Kavaratti",
                 "Lakshadweep"
             ]
         },
         {
-            "state_code": "MP",
+            "name": "Madhya Pradesh",
             "data": [
                 "Agar",
                 "Ajaigarh",
@@ -1860,7 +1860,7 @@
             ]
         },
         {
-            "state_code": "MH",
+            "name": "Maharashtra",
             "data": [
                 "Achalpur",
                 "Ahiri",
@@ -2178,7 +2178,7 @@
             ]
         },
         {
-            "state_code": "MN",
+            "name": "Manipur",
             "data": [
                 "Bishnupur",
                 "Churachandpur",
@@ -2198,7 +2198,7 @@
             ]
         },
         {
-            "state_code": "ML",
+            "name": "Meghalaya",
             "data": [
                 "Cherrapunji",
                 "East Gāro Hills",
@@ -2221,7 +2221,7 @@
             ]
         },
         {
-            "state_code": "MZ",
+            "name": "Mizoram",
             "data": [
                 "Aizawl",
                 "Champhai",
@@ -2242,7 +2242,7 @@
             ]
         },
         {
-            "state_code": "NL",
+            "name": "Nagaland",
             "data": [
                 "Dimapur",
                 "Dimāpur",
@@ -2259,7 +2259,7 @@
             ]
         },
         {
-            "state_code": "OR",
+            "name": "Odisha",
             "data": [
                 "Angul",
                 "Angul District",
@@ -2379,7 +2379,7 @@
             ]
         },
         {
-            "state_code": "PY",
+            "name": "Puducherry",
             "data": [
                 "Kāraikāl",
                 "Mahe",
@@ -2388,7 +2388,7 @@
             ]
         },
         {
-            "state_code": "PB",
+            "name": "Punjab",
             "data": [
                 "Abohar",
                 "Adampur",
@@ -2508,7 +2508,7 @@
             ]
         },
         {
-            "state_code": "RJ",
+            "name": "Rajasthan",
             "data": [
                 "Abhaneri",
                 "Ābu",
@@ -2705,7 +2705,7 @@
             ]
         },
         {
-            "state_code": "SK",
+            "name": "Sikkim",
             "data": [
                 "East District",
                 "Gangtok",
@@ -2722,7 +2722,7 @@
             ]
         },
         {
-            "state_code": "TN",
+            "name": "Tamil Nadu",
             "data": [
                 "Abirāmam",
                 "Adirampattinam",
@@ -3086,7 +3086,7 @@
             ]
         },
         {
-            "state_code": "TG",
+            "name": "Telangana",
             "data": [
                 "Ādilābād",
                 "Ālampur",
@@ -3183,7 +3183,7 @@
             ]
         },
         {
-            "state_code": "TR",
+            "name": "Tripura",
             "data": [
                 "Agartala",
                 "Amarpur",
@@ -3207,7 +3207,7 @@
             ]
         },
         {
-            "state_code": "UP",
+            "name": "Uttar Pradesh",
             "data": [
                 "Achhnera",
                 "Afzalgarh",
@@ -3711,7 +3711,7 @@
             ]
         },
         {
-            "state_code": "UT",
+            "name": "Uttarakhand",
             "data": [
                 "Almora",
                 "Bageshwar",
@@ -3774,7 +3774,7 @@
             ]
         },
         {
-            "state_code": "WB",
+            "name": "West Bengal",
             "data": [
                 "Ahmedpur",
                 "Aistala",
