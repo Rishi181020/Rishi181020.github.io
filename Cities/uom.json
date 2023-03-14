@@ -1,6 +1,5 @@
-
 {
-    "states":[
+    "states": [
         "Microliter",
         "Square foot",
         "Pair",
@@ -52,5 +51,4 @@
         "Each",
         "Square mile"
     ]
-    
-  }
+}
