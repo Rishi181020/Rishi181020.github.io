@@ -1,54 +1,154 @@
 {
-    "states": [
-        "Microliter",
-        "Square foot",
-        "Pair",
-        "Cubic foot",
-        "Pint",
-        "Acre",
-        "US gallon",
-        "Quart",
-        "Ampere",
-        "Gram",
-        "Ream",
-        "Years",
-        "Gross",
-        "Roll",
-        "Arpent",
-        "Hectare",
-        "Set",
-        "Bundle",
-        "Mile",
-        "Bag",
-        "Square inch",
-        "Sheet",
-        "Bucket",
-        "Cubic inch",
-        "Ton",
-        "Book",
-        "Kilogram",
-        "Tonne ",
-        "Bale",
-        "Square kilometer",
-        "Tube",
-        "Barrel",
-        "Kilometer",
-        "Pound",
-        "Linear Foot",
-        "Lot",
-        "Square yard",
-        "Cubic yard",
-        "Liter",
-        "Hundred",
-        "Square centimeter",
-        "Cubic centimeter",
-        "Centimeter",
-        "Thousand",
-        "Crate",
-        "Meter",
-        "Ounce",
-        "Dozen",
-        "Each",
-        "Square mile"
+    "unit": [
+        {
+            "name": "Microliter"
+        },
+        {
+            "name": "Square foot"
+        },
+        {
+            "name": "Pair"
+        },
+        {
+            "name": "Cubic foot"
+        },
+        {
+            "name": "Pint"
+        },
+        {
+            "name": "Acre"
+        },
+        {
+            "name": "US gallon"
+        },
+        {
+            "name": "Quart"
+        },
+        {
+            "name": "Ampere"
+        },
+        {
+            "name": "Gram"
+        },
+        {
+            "name": "Ream"
+        },
+        {
+            "name": "Years"
+        },
+        {
+            "name": "Gross"
+        },
+        {
+            "name": "Roll"
+        },
+        {
+            "name": "Arpent"
+        },
+        {
+            "name": "Hectare"
+        },
+        {
+            "name": "Set"
+        },
+        {
+            "name": "Bundle"
+        },
+        {
+            "name": "Mile"
+        },
+        {
+            "name": "Bag"
+        },
+        {
+            "name": "Square inch"
+        },
+        {
+            "name": "Sheet"
+        },
+        {
+            "name": "Bucket"
+        },
+        {
+            "name": "Cubic inch"
+        },
+        {
+            "name": "Ton"
+        },
+        {
+            "name": "Book"
+        },
+        {
+            "name": "Kilogram"
+        },
+        {
+            "name": "Tonne "
+        },
+        {
+            "name": "Bale"
+        },
+        {
+            "name": "Square kilometer"
+        },
+        {
+            "name": "Tube"
+        },
+        {
+            "name": "Barrel"
+        },
+        {
+            "name": "Kilometer"
+        },
+        {
+            "name": "Pound"
+        },
+        {
+            "name": "Linear Foot"
+        },
+        {
+            "name": "Lot"
+        },
+        {
+            "name": "Square yard"
+        },
+        {
+            "name": "Cubic yard"
+        },
+        {
+            "name": "Liter"
+        },
+        {
+            "name": "Hundred"
+        },
+        {
+            "name": "Square centimeter"
+        },
+        {
+            "name": "Cubic centimeter"
+        },
+        {
+            "name": "Centimeter"
+        },
+        {
+            "name": "Thousand"
+        },
+        {
+            "name": "Crate"
+        },
+        {
+            "name": "Meter"
+        },
+        {
+            "name": "Ounce"
+        },
+        {
+            "name": "Dozen"
+        },
+        {
+            "name": "Each"
+        },
+        {
+            "name": "Square mile"
+        }
     ]
 }
