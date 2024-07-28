@@ -27,7 +27,15 @@ export class GalleryComponent {
     { type: 'image', src: 'assets/g18.jpg', alt: 'Image 18' },
     { type: 'image', src: 'assets/g20.jpg', alt: 'Image 20' },
     { type: 'image', src: 'assets/g21.jpg', alt: 'Image 21' },
+    { type: 'image', src: 'assets/g22.jpg', alt: 'Image 22' },
+    { type: 'image', src: 'assets/g23.jpg', alt: 'Image 23' },
+    { type: 'image', src: 'assets/g24.jpg', alt: 'Image 24' },
+    { type: 'image', src: 'assets/g25.jpg', alt: 'Image 25' },
+    { type: 'image', src: 'assets/g26.jpg', alt: 'Image 26' },
+    { type: 'image', src: 'assets/g27.jpg', alt: 'Image 27' },
+    { type: 'image', src: 'assets/g28.jpg', alt: 'Image 28' },
     { type: 'video', src: 'assets/video1.mp4', alt: 'Video 1' },
+    { type: 'video', src: 'assets/video2.mp4', alt: 'Video 1' },
   ];
 
   selectedMedia: { type: string, src: string, alt: string } | null = null;
