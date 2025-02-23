@@ -38,6 +38,7 @@ export class GalleryComponent {
     { type: 'image', src: 'assets/g30.jpg', alt: 'Image 26' },
     { type: 'image', src: 'assets/g31.jpg', alt: 'Image 27' },
     { type: 'image', src: 'assets/g32.jpg', alt: 'Image 28' },
+    { type: 'image', src: 'assets/g35.jpg', alt: 'Image 29' },
     { type: 'video', src: 'assets/video1.mp4', alt: 'Video 1' },
     { type: 'video', src: 'assets/video2.mp4', alt: 'Video 1' },
   ];
